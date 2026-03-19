@@ -38,13 +38,13 @@ Relationships:
 - Distinct Patients
 ##  Dashboard Preview
 ### Exploration Page
-![Exploration](screenshots/exploration.png)
+![Exploration](exploration_page.png)
 
 ### Summary Page
-![Summary](screenshots/synthese.png)
+![Summary](synthese_page.png)
 
 ###  Drillthrough Page
-![Details](screenshots/drillthrough.png)
+![Details](drillthrough_page.png)
 
 ##  Key Insights
 - Monthly evolution of consultations
